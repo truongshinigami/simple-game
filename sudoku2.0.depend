@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1526014492 source:c:\users\light\documents\code blcok\sudoku2.0\main.cpp
+	"display_game.h"
+
+1526012469 source:c:\users\light\documents\code blcok\sudoku2.0\game_logic.cpp
+	"sudoku.h"
+
+1526015072 c:\users\light\documents\code blcok\sudoku2.0\sudoku.h
+	<iostream>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<fstream>
+	<chrono>
+	<vector>
+
+1526482456 c:\users\light\documents\code blcok\sudoku2.0\display_game.h
+	"sudoku.h"
+
+1526618382 source:c:\users\light\documents\code blcok\sudoku2.0\game_display.cpp
+	"display_game.h"
+
+1526480442 c:\users\light\documents\code blcok\sudoku2.0\prepare_game.h
+	<iostream>
+	<fstream>
+
+1526615262 source:c:\users\light\documents\code blcok\sudoku2.0\picture.cpp
+
